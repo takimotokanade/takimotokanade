@@ -1,4 +1,4 @@
-## Hi there 👋
+## こんにちは！ 👋
 
 <!--
 **takimotokanade/takimotokanade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kanade(24), a vocational student in Osaka, Japan."
+私は大阪の専門学校生です。"
 
 ### About me
--🎓 I'm studying at a vocational school in Osaka.  
--💻 I'm currently learning Java.
+-🎓 私は２年制の専門学校に通っています。情報処理学科を専攻しています。  
+-💻 学校では主にJavaを用いたシステム開発を学んでいます。その他にもデータ構造とアルゴリズム、データベース、ネットワークなどの基礎知識を幅広く学習しています。今現在は、授業を通してWEBアプリケーション開発をしています。
 
 ### Tech stacks
 <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode,github,figma" />
