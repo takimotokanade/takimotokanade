@@ -1,4 +1,4 @@
-## こんにちは！ 👋
+## こんにちは👋
 
 <!--
 **takimotokanade/takimotokanade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-私は大阪の専門学校生です。"
 
 ### About me
 -🎓 私は2年制の専門学校に通っていて、情報処理学科を専攻しています。  
