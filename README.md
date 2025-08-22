@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 私は大阪の専門学校生です。"
 
 ### About me
--🎓 私は２年制の専門学校に通っています。情報処理学科を専攻しています。  
--💻 学校では主にJavaを用いたシステム開発を学んでいます。その他にもデータ構造とアルゴリズム、データベース、ネットワークなどの基礎知識を幅広く学習しています。今現在は、授業を通してWEBアプリケーション開発をしています。
+-🎓 私は2年制の専門学校に通っていて、情報処理学科を専攻しています。  
+-💻 学校では主にJavaを用いたシステムの開発を学んでいます。
 
 ### Tech stacks
 <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode,github,figma" />
