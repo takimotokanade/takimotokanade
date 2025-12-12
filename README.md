@@ -20,10 +20,4 @@ Here are some ideas to get you started:
 - 学校では主にJavaを用いたシステムの開発を学んでいます。
 
 ### Tech stacks
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode,github,eclipse,androidstudio,unity" />
-
-### My Status
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takimotokanade&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takimotokanade&show_icons=true" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode,eclipse,androidstudio,unity,git,github,figma" />
