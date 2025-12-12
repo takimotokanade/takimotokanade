@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 学校では主にJavaを用いたシステムの開発を学んでいます。
 
 ### Tech stacks
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode,github,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode,github,eclipse,androidstudio,unity" />
 
 ### My Status
 <p align="left"> 
